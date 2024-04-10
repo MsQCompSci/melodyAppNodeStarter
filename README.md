@@ -1,5 +1,5 @@
-# melodyAppNodeStarter
-Starter code for the Melody App tutorial using p5.js, Node.js and Express.js
+# Melody App Starter Code
+Starter code for the Melody App tutorial using p5.js, Node.js and Express.js.
 
 1. Download and unzip this repository and ensure node.js is installed on your device
 2. Open the terminal on your computer, navigate to the directory with this file and type <code> npm init -y </code> to create a package.json file
