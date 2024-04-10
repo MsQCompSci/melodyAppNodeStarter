@@ -8,6 +8,7 @@ function preload() {
 
 function setup() {
     createCanvas(400, 400);
+    //print song names to console
     console.log(songs)
 }
   
